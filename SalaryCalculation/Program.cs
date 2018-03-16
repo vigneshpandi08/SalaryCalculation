@@ -8,7 +8,7 @@ namespace SalaryCalculation
 {
     public class EmployeeSalary
     {
-        public int EmpId { get; set; }
+        //public int EmpId { get; set; }
         public string EmpName { get; set; }
         public double MonthlySalary { get; set; }
     }
